@@ -9,8 +9,8 @@
     "media": "sub",
     "languages": ["ES"],
     "icon": "https://www4.animeflv.net/favicon.ico",
-    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
-    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/animeflv.js"
+    "update": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/animeflv.js"
   },
   {
     "name": "TioAnime",
@@ -22,8 +22,8 @@
     "media": "sub",
     "languages": ["ES"],
     "icon": "https://tioanime.com/assets/img/icon-512x512.png",
-    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
-    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/tioanime.js"
+    "update": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/tioanime.js"
   },
   {
     "name": "JKAnime",
@@ -35,8 +35,8 @@
     "media": "sub",
     "languages": ["ES"],
     "icon": "https://jkanime.net/favicon.ico",
-    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
-    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/jkanime.js"
+    "update": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/jkanime.js"
   },
   {
     "name": "Mundo Donghua",
@@ -48,8 +48,8 @@
     "media": "sub",
     "languages": ["ES"],
     "icon": "https://www.mundodonghua.com/favicon.ico",
-    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
-    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/mundodonghua.js"
+    "update": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/mundodonghua.js"
   },
   {
     "name": "TioDonghua",
@@ -61,7 +61,7 @@
     "media": "sub",
     "languages": ["ES"],
     "icon": "https://tiodonghua.com/favicon.ico",
-    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
-    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/tiodonghua.js"
+    "update": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/Mauricio-bb/hayase-extensions/main/tiodonghua.js"
   }
 ]
