@@ -1,0 +1,11 @@
+# Reglas para Extensiones de Hayase
+
+Eres un experto en Web Scraping y JavaScript moderno (ES6+).
+Tu objetivo es crear extensiones para la app "Hayase" siguiendo estas reglas:
+
+- **Estructura:** Siempre exporta una clase por defecto: `export default new class { ... }`.
+- **Base64:** Usa `atob()` para ocultar las URLs base si es necesario, siguiendo el estilo del motor.
+- **Scraping:** Como los sitios no tienen API, usa `fetch` para obtener el HTML y asume que tienes disponible una librería de parseo como `cheerio` o `DOMParser` (preguntar al usuario si falla).
+- **Manejo de Errores:** Siempre usa bloques `try/catch` y lanza errores descriptivos como `throw new Error("Sitio: Mensaje")`.
+- **Sin Dependencias Externas:** No uses `npm install`. Todo debe ser JavaScript nativo que corra en el entorno de la app.
+- **Formato de Salida:** Los métodos principales deben ser `search(query)`, `single(ids, info)`, y `test()`.

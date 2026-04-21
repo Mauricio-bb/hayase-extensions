@@ -1,0 +1,67 @@
+[
+  {
+    "name": "AnimeFLV",
+    "id": "animeflv-es",
+    "version": "1.0.0",
+    "type": "video",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["ES"],
+    "icon": "https://www4.animeflv.net/favicon.ico",
+    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/animeflv.js"
+  },
+  {
+    "name": "TioAnime",
+    "id": "tioanime-es",
+    "version": "1.0.0",
+    "type": "video",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["ES"],
+    "icon": "https://tioanime.com/assets/img/icon-512x512.png",
+    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/tioanime.js"
+  },
+  {
+    "name": "JKAnime",
+    "id": "jkanime-es",
+    "version": "1.0.0",
+    "type": "video",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["ES"],
+    "icon": "https://jkanime.net/favicon.ico",
+    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/jkanime.js"
+  },
+  {
+    "name": "Mundo Donghua",
+    "id": "mundodonghua-es",
+    "version": "1.0.0",
+    "type": "video",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["ES"],
+    "icon": "https://www.mundodonghua.com/favicon.ico",
+    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/mundodonghua.js"
+  },
+  {
+    "name": "TioDonghua",
+    "id": "tiodonghua-es",
+    "version": "1.0.0",
+    "type": "video",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "sub",
+    "languages": ["ES"],
+    "icon": "https://tiodonghua.com/favicon.ico",
+    "update": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/index.json",
+    "code": "https://raw.githubusercontent.com/TU_USUARIO/hayase-extensions/main/tiodonghua.js"
+  }
+]
